@@ -1,0 +1,8 @@
+com/live2d/demo/JniBridgeJava.java
+ com.live2d.demo.JniBridgeJava
+com/live2d/demo/BuildConfig.java
+ com.live2d.demo.BuildConfig
+com/live2d/demo/GLRenderer.java
+ com.live2d.demo.GLRenderer
+com/live2d/demo/MainActivity.java
+ com.live2d.demo.MainActivity

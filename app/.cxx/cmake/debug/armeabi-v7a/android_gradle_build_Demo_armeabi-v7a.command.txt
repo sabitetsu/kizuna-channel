@@ -1,0 +1,7 @@
+Executable : /Users/entrance/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Users/entrance/Downloads/CubismSdkForNative-4-r.3/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx/cmake/debug/armeabi-v7a
+Demo
+jvmArgs : 
+

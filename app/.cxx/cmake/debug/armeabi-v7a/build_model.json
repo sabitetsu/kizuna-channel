@@ -1,0 +1,67 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "/Users/entrance/Downloads/CubismSdkForNative-4-r.3/Samples/OpenGL/Demo/proj.android.cmake",
+      "sdkFolder": "/Users/entrance/Library/Android/sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/Users/entrance/Downloads/CubismSdkForNative-4-r.3/Samples/OpenGL/Demo/proj.android.cmake/app/build/intermediates",
+      "gradleModulePathName": ":Demo",
+      "moduleRootFolder": "/Users/entrance/Downloads/CubismSdkForNative-4-r.3/Samples/OpenGL/Demo/proj.android.cmake/app",
+      "makeFile": "/Users/entrance/Downloads/CubismSdkForNative-4-r.3/Samples/OpenGL/Demo/proj.android.cmake/app/CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "/Users/entrance/Downloads/CubismSdkForNative-4-r.3/Samples/OpenGL/Demo/proj.android.cmake/.cxx",
+      "cxxFolder": "/Users/entrance/Downloads/CubismSdkForNative-4-r.3/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx",
+      "ndkFolder": "/Users/entrance/Library/Android/sdk/ndk/22.1.7171670",
+      "ndkVersion": "22.1.7171670",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "soFolder": "/Users/entrance/Downloads/CubismSdkForNative-4-r.3/Samples/OpenGL/Demo/proj.android.cmake/app/build/intermediates/cmake/debug/lib",
+    "objFolder": "/Users/entrance/Downloads/CubismSdkForNative-4-r.3/Samples/OpenGL/Demo/proj.android.cmake/app/build/intermediates/cmake/debug/obj",
+    "jsonFolder": "/Users/entrance/Downloads/CubismSdkForNative-4-r.3/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx/cmake/debug",
+    "gradleBuildOutputFolder": "/Users/entrance/Downloads/CubismSdkForNative-4-r.3/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx/cxx/debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARMEABI_V7A",
+  "abiPlatformVersion": 16,
+  "cxxBuildFolder": "/Users/entrance/Downloads/CubismSdkForNative-4-r.3/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx/cmake/debug/armeabi-v7a",
+  "jsonFile": "/Users/entrance/Downloads/CubismSdkForNative-4-r.3/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx/cmake/debug/armeabi-v7a/android_gradle_build.json",
+  "gradleBuildOutputFolder": "/Users/entrance/Downloads/CubismSdkForNative-4-r.3/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx/cxx/debug/armeabi-v7a",
+  "objFolder": "/Users/entrance/Downloads/CubismSdkForNative-4-r.3/Samples/OpenGL/Demo/proj.android.cmake/app/build/intermediates/cmake/debug/obj/armeabi-v7a",
+  "buildCommandFile": "/Users/entrance/Downloads/CubismSdkForNative-4-r.3/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx/cmake/debug/armeabi-v7a/build_command.txt",
+  "buildOutputFile": "/Users/entrance/Downloads/CubismSdkForNative-4-r.3/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx/cmake/debug/armeabi-v7a/build_output.txt",
+  "modelOutputFile": "/Users/entrance/Downloads/CubismSdkForNative-4-r.3/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx/cmake/debug/armeabi-v7a/build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "/Users/entrance/Downloads/CubismSdkForNative-4-r.3/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx/cxx/debug/armeabi-v7a/CMakeLists.txt",
+    "toolchainWrapperFile": "/Users/entrance/Downloads/CubismSdkForNative-4-r.3/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx/cxx/debug/armeabi-v7a/android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "/Users/entrance/Downloads/CubismSdkForNative-4-r.3/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx/cxx/debug/armeabi-v7a/build_generation_state.json",
+    "cacheKeyFile": "/Users/entrance/Downloads/CubismSdkForNative-4-r.3/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx/cxx/debug/armeabi-v7a/compiler_cache_key.json",
+    "compilerCacheUseFile": "/Users/entrance/Downloads/CubismSdkForNative-4-r.3/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx/cxx/debug/armeabi-v7a/compiler_cache_use.json",
+    "compilerCacheWriteFile": "/Users/entrance/Downloads/CubismSdkForNative-4-r.3/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx/cxx/debug/armeabi-v7a/compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "/Users/entrance/Downloads/CubismSdkForNative-4-r.3/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx/cxx/debug/armeabi-v7a/compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "/Users/entrance/Downloads/CubismSdkForNative-4-r.3/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx/cmake/debug/armeabi-v7a/json_generation_record.json",
+  "compileCommandsJsonFile": "/Users/entrance/Downloads/CubismSdkForNative-4-r.3/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx/cmake/debug/armeabi-v7a/compile_commands.json"
+}

@@ -1,0 +1,4 @@
+#Wed Sep 29 15:22:52 JST 2021
+base.0=/Users/entrance/Downloads/CubismSdkForNative-4-r.3/Samples/OpenGL/Demo/proj.android.cmake/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

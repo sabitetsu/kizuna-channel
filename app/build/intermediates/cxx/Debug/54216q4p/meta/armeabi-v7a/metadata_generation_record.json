@@ -1,0 +1,44 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 16 min SDK version: armeabi-v7a",
+    "file_": "/Users/entrance/Downloads/CubismSdkForNative-4-r.3/Samples/OpenGL/Demo/proj.android.cmake/app/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -698558355
+  },
+  {
+    "level_": 0,
+    "message_": "JSON \u0027/Users/entrance/Downloads/CubismSdkForNative-4-r.3/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx/Debug/54216q4p/armeabi-v7a/android_gradle_build.json\u0027 was up-to-date",
+    "file_": "/Users/entrance/Downloads/CubismSdkForNative-4-r.3/Samples/OpenGL/Demo/proj.android.cmake/app/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -991758047
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "/Users/entrance/Downloads/CubismSdkForNative-4-r.3/Samples/OpenGL/Demo/proj.android.cmake/app/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 132838828
+  }
+]

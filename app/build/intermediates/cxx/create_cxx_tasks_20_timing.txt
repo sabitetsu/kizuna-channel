@@ -1,0 +1,72 @@
+# C/C++ build system timings
+create_cxx_tasks
+  create-initial-cxx-model
+    create-module-model
+      [gap of 14ms]
+      create-project-model 11ms
+      create-cmake-model 41ms
+      [gap of 16ms]
+    create-module-model completed in 87ms
+    create-variant-model 43ms
+    create-ARMEABI_V7A-model 1153ms
+    create-ARM64_V8A-model 15ms
+    create-X86-model 13ms
+    create-X86_64-model 12ms
+    create-variant-model 10ms
+    create-ARMEABI_V7A-model 17ms
+    create-ARM64_V8A-model 12ms
+    create-X86-model 10ms
+    create-X86_64-model 11ms
+  create-initial-cxx-model completed in 1392ms
+  [gap of 65ms]
+create_cxx_tasks completed in 1459ms
+
+# C/C++ build system timings
+create_cxx_tasks
+  create-initial-cxx-model
+    create-module-model
+      [gap of 21ms]
+      create-cmake-model 22ms
+      [gap of 14ms]
+    create-module-model completed in 57ms
+    create-variant-model 28ms
+    create-ARMEABI_V7A-model 781ms
+    create-ARM64_V8A-model 13ms
+    [gap of 49ms]
+    create-X86-model 10ms
+  create-initial-cxx-model completed in 949ms
+  [gap of 32ms]
+create_cxx_tasks completed in 981ms
+
+# C/C++ build system timings
+create_cxx_tasks
+  create-initial-cxx-model
+    create-variant-model 15ms
+    create-ARMEABI_V7A-model 11ms
+    create-X86-model 10ms
+    [gap of 54ms]
+  create-initial-cxx-model completed in 106ms
+create_cxx_tasks completed in 109ms
+
+# C/C++ build system timings
+create_cxx_tasks
+  create-initial-cxx-model
+    create-module-model
+      [gap of 27ms]
+      create-cmake-model 53ms
+      [gap of 33ms]
+    create-module-model completed in 113ms
+    create-variant-model 61ms
+    create-ARMEABI_V7A-model 1939ms
+    create-ARM64_V8A-model 18ms
+    create-X86-model 11ms
+    create-X86_64-model 10ms
+    [gap of 12ms]
+    create-ARMEABI_V7A-model 13ms
+    create-ARM64_V8A-model 13ms
+    create-X86-model 12ms
+    create-X86_64-model 10ms
+  create-initial-cxx-model completed in 2220ms
+  [gap of 52ms]
+create_cxx_tasks completed in 2273ms
+

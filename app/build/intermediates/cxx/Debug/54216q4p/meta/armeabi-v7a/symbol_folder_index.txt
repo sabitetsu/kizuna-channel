@@ -1,0 +1,1 @@
+/Users/entrance/Downloads/CubismSdkForNative-4-r.3/Samples/OpenGL/Demo/proj.android.cmake/app/build/intermediates/cxx/Debug/54216q4p/obj/armeabi-v7a
